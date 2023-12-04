@@ -1,4 +1,4 @@
-#Multime
+# Multime
 
  Clasa ”Multime” (multimi finite de numere intregi reprezentate ca tablouri unidimensionale)
 
