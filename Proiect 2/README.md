@@ -1,5 +1,4 @@
-# POO-2
-*Proces*
+# Proces
 
 Se dau clasele:
   - Proces (int nrProces, string reclamant, string reclamat)
